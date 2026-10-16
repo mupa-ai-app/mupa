@@ -1,0 +1,2 @@
+# mupa
+AI applization
